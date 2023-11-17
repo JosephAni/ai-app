@@ -9,8 +9,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`Replicate A
 ## Getting Started
 
 * Clone this app in your local IDE
-* Run npm install
-* Add your replicate API token to .env.local: 
+* Run npm install  
+  
+```bash
+  npm install
+```
+
+* Add your replicate API token to .env.local:
   REPLICATE_API_TOKEN=<your-token-here>
 * Run the development server:
 
@@ -21,4 +26,3 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
