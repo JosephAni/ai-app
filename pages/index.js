@@ -48,9 +48,12 @@ export default function Home() {
         <title>Replicate + Next.js</title>
       </Head>
 
-      <h1 className="py-6 text-center font-bold text-2xl">
-        Dream something with{" "}
-        <a href="https://replicate.com/stability-ai/stable-diffusion">SDXL</a>:
+      <h1 className="py-6 text-center font-bold text-6xl gap-4">
+        Generate images with{" "} 
+        <span className="">
+        <a href="https://replicate.com/stability-ai/stable-diffusion" >Stable Diffusion XL</a>:
+        </span>
+        
       </h1>
 
       <form className="w-full flex" onSubmit={handleSubmit}>

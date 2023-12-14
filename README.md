@@ -1,3 +1,5 @@
+# AI App
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`Replicate API`] to run a machine learning model generating images using stable diffusion.
 
 ## Prerequisites
